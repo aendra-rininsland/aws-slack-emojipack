@@ -1,0 +1,14 @@
+title: AWS Mobile Services
+emojis:
+  - name: aws-amazonapigateway
+    src: MobileServices_AmazonAPIGateway.png
+  - name: aws-amazoncognito
+    src: MobileServices_AmazonCognito.png
+  - name: aws-amazonmobileanalytics
+    src: MobileServices_AmazonMobileAnalytics.png
+  - name: aws-amazonpinpoint
+    src: MobileServices_AmazonPinpoint.png
+  - name: aws-awsdevicefarm
+    src: MobileServices_AWSDeviceFarm.png
+  - name: aws-awsmobilehub
+    src: MobileServices_AWSMobileHub.png

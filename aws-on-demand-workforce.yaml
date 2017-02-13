@@ -1,0 +1,12 @@
+title: AWS On-Demand Workforce
+emojis:
+  - name: aws-amazonmechanicalturk_assignmenttask
+    src: OnDemandWorkforce_AmazonMechanicalTurk_assignmenttask.png
+  - name: aws-amazonmechanicalturk_humanintelligencetasks
+    src: OnDemandWorkforce_AmazonMechanicalTurk_humanintelligencetasks.png
+  - name: aws-amazonmechanicalturk_requester
+    src: OnDemandWorkforce_AmazonMechanicalTurk_requester.png
+  - name: aws-amazonmechanicalturk_workers
+    src: OnDemandWorkforce_AmazonMechanicalTurk_workers.png
+  - name: aws-amazonmechanicalturk
+    src: OnDemandWorkforce_AmazonMechanicalTurk.png

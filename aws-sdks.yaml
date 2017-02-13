@@ -1,0 +1,30 @@
+title: AWS SDKs
+emojis:
+  - name: aws-android
+    src: SDKs_Android.png
+  - name: aws-awscli
+    src: SDKs_AWSCLI.png
+  - name: aws-awstoolkitforeclipse
+    src: SDKs_AWSToolkitForEclipse.png
+  - name: aws-awstoolkitforvisualstudio
+    src: SDKs_AWSToolkitForVisualStudio.png
+  - name: aws-awstoolsforwindowspowershell
+    src: SDKs_AWSToolsForWindowsPowerShell.png
+  - name: aws-ios
+    src: SDKs_iOS.png
+  - name: aws-java
+    src: SDKs_Java.png
+  - name: aws-javascript
+    src: SDKs_JavaScript.png
+  - name: aws-net
+    src: SDKs_Net.png
+  - name: aws-nodejs
+    src: SDKs_Nodejs.png
+  - name: aws-php
+    src: SDKs_PHP.png
+  - name: aws-python
+    src: SDKs_Python.png
+  - name: aws-ruby
+    src: SDKs_Ruby.png
+  - name: aws-xamarin
+    src: SDKs_Xamarin.png

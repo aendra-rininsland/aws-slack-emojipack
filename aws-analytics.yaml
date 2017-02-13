@@ -1,0 +1,44 @@
+title: AWS Analytics
+emojis:
+  - name: aws-amazonathena
+    src: Analytics_AmazonAthena.png
+  - name: aws-amazoncloudsearch_searchdocuments
+    src: Analytics_AmazonCloudSearch_searchdocuments.png
+  - name: aws-amazoncloudsearch
+    src: Analytics_AmazonCloudSearch.png
+  - name: aws-amazonemr_cluster
+    src: Analytics_AmazonEMR_cluster.png
+  - name: aws-amazonemr_emrengine
+    src: Analytics_AmazonEMR_EMRengine.png
+  - name: aws-amazonemr_emrenginemaprm3
+    src: Analytics_AmazonEMR_EMRengineMapRM3.png
+  - name: aws-amazonemr_emrenginemaprm5
+    src: Analytics_AmazonEMR_EMRengineMapRM5.png
+  - name: aws-amazonemr_emrenginemaprm7
+    src: Analytics_AmazonEMR_EMRengineMapRM7.png
+  - name: aws-amazonemr
+    src: Analytics_AmazonEMR-HDFScluster.png
+  - name: aws-amazonemr
+    src: Analytics_AmazonEMR.png
+  - name: aws-amazones
+    src: Analytics_AmazonES.png
+  - name: aws-amazonkinesis_amazonkinesis
+    src: Analytics_AmazonKinesis_AmazonKinesis-enabledapp.png
+  - name: aws-amazonkinesis_amazonkinesisanalytics
+    src: Analytics_AmazonKinesis_AmazonKinesisAnalytics.png
+  - name: aws-amazonkinesis_amazonkinesisfirehose
+    src: Analytics_AmazonKinesis_AmazonKinesisFirehose.png
+  - name: aws-amazonkinesis_amazonkinesisstreams
+    src: Analytics_AmazonKinesis_AmazonKinesisStreams.png
+  - name: aws-amazonkinesis
+    src: Analytics_AmazonKinesis.png
+  - name: aws-amazonquicksight
+    src: Analytics_AmazonQuickSight.png
+  - name: aws-amazonredshift_densecomputenode
+    src: Analytics_AmazonRedshift_densecomputenode.png
+  - name: aws-amazonredshift_densestoragenode
+    src: Analytics_AmazonRedshift_densestoragenode.png
+  - name: aws-amazonredshift
+    src: Analytics_AmazonRedshift.png
+  - name: aws-awsdatapipeline
+    src: Analytics_AWSDataPipeline.png

@@ -1,0 +1,42 @@
+title: AWS <name>
+emojis:
+  - name: aws-awscloud
+    src: General_AWScloud.png
+  - name: aws-awsmanagementconsole
+    src: General_AWSManagementConsole.png
+  - name: aws-client
+    src: General_client.png
+  - name: aws-corporatedatacenter
+    src: General_corporatedatacenter.png
+  - name: aws-disk
+    src: General_disk.png
+  - name: aws-forums
+    src: General_forums.png
+  - name: aws-genericdatabase
+    src: General_genericdatabase.png
+  - name: aws-internet
+    src: General_Internet.png
+  - name: aws-internetalternate1
+    src: General_Internetalternate1.png
+  - name: aws-internetalternate2
+    src: General_Internetalternate2.png
+  - name: aws-mobileclient
+    src: General_mobileclient.png
+  - name: aws-multimedia
+    src: General_multimedia.png
+  - name: aws-officebuilding
+    src: General_officebuilding.png
+  - name: aws-samltoken
+    src: General_SAMLtoken.png
+  - name: aws-sslpadlock
+    src: General_SSLpadlock.png
+  - name: aws-tapestorage
+    src: General_tapestorage.png
+  - name: aws-traditionalserver
+    src: General_traditionalserver.png
+  - name: aws-user
+    src: General_user.png
+  - name: aws-users
+    src: General_users.png
+  - name: aws-virtualprivatecloud
+    src: General_virtualprivatecloud.png

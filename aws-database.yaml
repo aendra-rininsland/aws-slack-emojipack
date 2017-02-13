@@ -1,0 +1,62 @@
+title: AWS Database
+emojis:
+  - name: aws-amazondynamodb_attribute
+    src: Database_AmazonDynamoDB_attribute.png
+  - name: aws-amazondynamodb_attributes
+    src: Database_AmazonDynamoDB_attributes.png
+  - name: aws-amazondynamodb_globalsecondaryindex
+    src: Database_AmazonDynamoDB_globalsecondaryindex.png
+  - name: aws-amazondynamodb_item
+    src: Database_AmazonDynamoDB_item.png
+  - name: aws-amazondynamodb_items
+    src: Database_AmazonDynamoDB_items.png
+  - name: aws-amazondynamodb_table
+    src: Database_AmazonDynamoDB_table.png
+  - name: aws-amazondynamodb
+    src: Database_AmazonDynamoDB.png
+  - name: aws-amazonelasticcache_cachenode
+    src: Database_AmazonElasticCache_cachenode.png
+  - name: aws-amazonelasticcache_memcached
+    src: Database_AmazonElasticCache_Memcached.png
+  - name: aws-amazonelasticcache_redis
+    src: Database_AmazonElasticCache_Redis.png
+  - name: aws-amazonelasticcache
+    src: Database_AmazonElasticCache.png
+  - name: aws-amazonrds_dbinstance
+    src: Database_AmazonRDS_DBinstance.png
+  - name: aws-amazonrds_instancereadreplica
+    src: Database_AmazonRDS_instancereadreplica.png
+  - name: aws-amazonrds_instancestandby
+    src: Database_AmazonRDS_instancestandby.png
+  - name: aws-amazonrds_mssqlinstance
+    src: Database_AmazonRDS_MSSQLinstance.png
+  - name: aws-amazonrds_mssqlinstancealternate
+    src: Database_AmazonRDS_MSSQLinstancealternate.png
+  - name: aws-amazonrds_mysqldbinstance
+    src: Database_AmazonRDS_MySQLDBinstance.png
+  - name: aws-amazonrds_mysqlinstancealternate
+    src: Database_AmazonRDS_MySQLinstancealternate.png
+  - name: aws-amazonrds_oracledbinstance
+    src: Database_AmazonRDS_oracleDBinstance.png
+  - name: aws-amazonrds_oracledbinstancealternate
+    src: Database_AmazonRDS_OracleDBinstancealternate.png
+  - name: aws-amazonrds_piop
+    src: Database_AmazonRDS_PIOP.png
+  - name: aws-amazonrds_postgresqlinstance
+    src: Database_AmazonRDS_PostgreSQLinstance.png
+  - name: aws-amazonrds_sqlmaster
+    src: Database_AmazonRDS_SQLmaster.png
+  - name: aws-amazonrds_sqlslave
+    src: Database_AmazonRDS_SQLslave.png
+  - name: aws-amazonrds
+    src: Database_AmazonRDS.png
+  - name: aws-amazonredshift_densecomputenode
+    src: Database_AmazonRedshift_densecomputenode.png
+  - name: aws-amazonredshift_densestoragenode
+    src: Database_AmazonRedshift_densestoragenode.png
+  - name: aws-amazonredshift
+    src: Database_AmazonRedshift.png
+  - name: aws-awsdms_databasemigrationworkflowjob
+    src: Database_AWSDMS_databasemigrationworkflowjob.png
+  - name: aws-awsdms
+    src: Database_AWSDMS.png

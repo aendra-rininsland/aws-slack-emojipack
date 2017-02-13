@@ -1,0 +1,90 @@
+title: AWS IoT
+emojis:
+  - name: apple
+    src: http://i.imgur.com/Rw0Vlda.png
+  - name: aws-alexaskill
+    src: InternetOfThings_alexaskill.png
+  - name: aws-alexasmarthomeskill
+    src: InternetOfThings_alexasmarthomeskill.png
+  - name: aws-alexavoiceservice
+    src: InternetOfThings_alexavoiceservice.png
+  - name: aws-avsenableddevice
+    src: InternetOfThings_AVSenableddevice.png
+  - name: aws-awsgreengrass
+    src: InternetOfThings_AWSGreengrass.png
+  - name: aws-awsiot_action
+    src: InternetOfThings_AWSIoT_action.png
+  - name: aws-awsiot_actuator
+    src: InternetOfThings_AWSIoT_actuator.png
+  - name: aws-awsiot_certificate
+    src: InternetOfThings_AWSIoT_certificate.png
+  - name: aws-awsiot_desiredstate
+    src: InternetOfThings_AWSIoT_desiredstate.png
+  - name: aws-awsiot_hardwareboard
+    src: InternetOfThings_AWSIoT_hardwareboard.png
+  - name: aws-awsiot_http2protocol
+    src: InternetOfThings_AWSIoT_HTTP2protocol.png
+  - name: aws-awsiot_httpprotocol
+    src: InternetOfThings_AWSIoT_HTTPprotocol.png
+  - name: aws-awsiot_mqttprotocol
+    src: InternetOfThings_AWSIoT_MQTTprotocol.png
+  - name: aws-awsiot_policy
+    src: InternetOfThings_AWSIoT_policy.png
+  - name: aws-awsiot_reportedstate
+    src: InternetOfThings_AWSIoT_reportedstate.png
+  - name: aws-awsiot_rule
+    src: InternetOfThings_AWSIoT_rule.png
+  - name: aws-awsiot_sensor
+    src: InternetOfThings_AWSIoT_sensor.png
+  - name: aws-awsiot_servo
+    src: InternetOfThings_AWSIoT_servo.png
+  - name: aws-awsiot_shadow
+    src: InternetOfThings_AWSIoT_shadow.png
+  - name: aws-awsiot_simulator
+    src: InternetOfThings_AWSIoT_simulator.png
+  - name: aws-awsiot_thingbank
+    src: InternetOfThings_AWSIoT_thingbank.png
+  - name: aws-awsiot_thingbicycle
+    src: InternetOfThings_AWSIoT_thingbicycle.png
+  - name: aws-awsiot_thingcamera
+    src: InternetOfThings_AWSIoT_thingcamera.png
+  - name: aws-awsiot_thingcar
+    src: InternetOfThings_AWSIoT_thingcar.png
+  - name: aws-awsiot_thingcart
+    src: InternetOfThings_AWSIoT_thingcart.png
+  - name: aws-awsiot_thingcoffeepot
+    src: InternetOfThings_AWSIoT_thingcoffeepot.png
+  - name: aws-awsiot_thingdoorlock
+    src: InternetOfThings_AWSIoT_thingdoorlock.png
+  - name: aws-awsiot_thingfactory
+    src: InternetOfThings_AWSIoT_thingfactory.png
+  - name: aws-awsiot_thinggeneric
+    src: InternetOfThings_AWSIoT_thinggeneric.png
+  - name: aws-awsiot_thinghouse
+    src: InternetOfThings_AWSIoT_thinghouse.png
+  - name: aws-awsiot_thinglightbulb
+    src: InternetOfThings_AWSIoT_thinglightbulb.png
+  - name: aws-awsiot_thingmedicalemergency
+    src: InternetOfThings_AWSIoT_thingmedicalemergency.png
+  - name: aws-awsiot_thingpoliceemergency
+    src: InternetOfThings_AWSIoT_thingpoliceemergency.png
+  - name: aws-awsiot_thingthermostat
+    src: InternetOfThings_AWSIoT_thingthermostat.png
+  - name: aws-awsiot_thingtravel
+    src: InternetOfThings_AWSIoT_thingtravel.png
+  - name: aws-awsiot_thingutility
+    src: InternetOfThings_AWSIoT_thingutility.png
+  - name: aws-awsiot_thingwindfarm
+    src: InternetOfThings_AWSIoT_thingwindfarm.png
+  - name: aws-awsiot_topic
+    src: InternetOfThings_AWSIoT_topic.png
+  - name: aws-awsiot
+    src: InternetOfThings_AWSIoT.png
+  - name: aws-echo
+    src: InternetOfThings_echo.png
+  - name: aws-firetv
+    src: InternetOfThings_fireTV.png
+  - name: aws-firetvstick
+    src: InternetOfThings_fireTVstick.png
+  - name: aws-lambdafunction
+    src: InternetOfThings_lambdafunction.png

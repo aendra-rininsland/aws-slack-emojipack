@@ -1,0 +1,10 @@
+title: AWS AI
+emojis:
+  - name: aws-amazonlex
+    src: AI_AmazonLex.png
+  - name: aws-amazonmachinelearning
+    src: AI_AmazonMachineLearning.png
+  - name: aws-amazonpolly
+    src: AI_AmazonPolly.png
+  - name: aws-amazonrekognition
+    src: AI_AmazonRekognition.png

@@ -1,0 +1,14 @@
+title: AWS Developer Tools/Game Development
+emojis:
+  - name: aws-awscodebuild
+    src: DeveloperTools_AWSCodeBuild.png
+  - name: aws-awscodecommit
+    src: DeveloperTools_AWSCodeCommit.png
+  - name: aws-awscodedeploy
+    src: DeveloperTools_AWSCodeDeploy.png
+  - name: aws-awscodepipeline
+    src: DeveloperTools_AWSCodePipeline.png
+  - name: aws-awsx-ray
+    src: DeveloperTools_AWSX-Ray.png
+  - name: aws-amazongamelift 
+    src: GameDevelopment_AmazonGameLift.png

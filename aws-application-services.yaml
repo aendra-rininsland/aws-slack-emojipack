@@ -1,0 +1,16 @@
+title: AWS Application Services
+emojis:
+  - name: aws-amazonapigateway
+    src: ApplicationServices_AmazonAPIGateway.png
+  - name: aws-amazonappstream
+    src: ApplicationServices_AmazonAppStream.png
+  - name: aws-amazonelastictranscoder
+    src: ApplicationServices_AmazonElasticTranscoder.png
+  - name: aws-amazonswf_decider
+    src: ApplicationServices_AmazonSWF_decider.png
+  - name: aws-amazonswf_worker
+    src: ApplicationServices_AmazonSWF_worker.png
+  - name: aws-amazonswf
+    src: ApplicationServices_AmazonSWF.png
+  - name: aws-awsstepfunctions
+    src: ApplicationServices_AWSStepFunctions.png
